@@ -1,0 +1,12 @@
+Package: GeneGate
+Type: Package
+Title: Automated Cell Annotation
+Version: 0.1.0
+Author: Divya Priyanka Talada
+Maintainer: Divya Priyanka Talada <Divya.T@somewhere.net>
+Description: GeneGate is a robust and flexible package designed for automated immune cell annotation in single-cell RNA-seq datasets. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Imports: scGate
