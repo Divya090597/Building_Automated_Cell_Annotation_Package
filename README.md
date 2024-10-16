@@ -1,4 +1,4 @@
-# Building_Automated_Cell_Annotation_Package
+# Building_Automated_Cell_Annotation_Package (GeneGate)
 
 *File path to the macrophage model* 
 
